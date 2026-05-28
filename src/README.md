@@ -1,4 +1,4 @@
-PERSON ROLE SYSTEM**
+**PERSON ROLE SYSTEM**
 
 -This is a java application that identifies different types of people and thier role in school such as students and teachers using Object-Oriented
 programing concepts such us:
