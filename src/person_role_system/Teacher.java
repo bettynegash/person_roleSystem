@@ -18,7 +18,7 @@ public class Teacher extends Person {
     public void setSalary(double salary) {
         this.salary = salary;
     }
-    public String getSalary(){
+    public double getSalary(){
         return salary;
     }
 
