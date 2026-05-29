@@ -20,6 +20,7 @@ public class Teacher extends Person {
     }
     public String getSalary(){
         return salary;
+    }
 
     public void dispalyrole() {
         System.out.println(getName()+"is a teacher.");
