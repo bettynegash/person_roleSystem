@@ -19,7 +19,7 @@ public class Teacher extends Person {
         this.salary = salary;
     }
 
-    @Override
+    
     public String getGender() {
         return super.getGender();
     }
