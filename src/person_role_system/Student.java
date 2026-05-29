@@ -25,9 +25,10 @@ public class Student extends Person {
     }
 
     public void dispalyrole() {
-        System.out.println(getName()+" is a student.");
+
         System.out.println("course:"+course);
         System.out.println("GPA:"+gpa);
+        System.out.println(getName()+" is a student.");
     }
     public void study(){
         System.out.println(getName()+"is studying");
