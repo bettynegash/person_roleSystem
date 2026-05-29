@@ -19,10 +19,6 @@ public class Teacher extends Person {
         this.salary = salary;
     }
 
-    
-    public String getGender() {
-        return super.getGender();
-    }
 
     public void dispalyrole() {
         System.out.println(getName()+"is a teacher.");
