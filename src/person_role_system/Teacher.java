@@ -23,9 +23,9 @@ public class Teacher extends Person {
     }
 
     public void dispalyrole() {
-        System.out.println(getName()+"is a teacher.");
         System.out.println("subject:"+subject);
         System.out.println("Salary:"+salary);
+        System.out.println(getName()+"is a teacher.");
     }
     public void teach(){
         System.out.println(getName()+" is teaching.");
